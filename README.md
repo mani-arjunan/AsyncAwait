@@ -1,3 +1,5 @@
 # Async Await Pro Tips
 
-Learn how to [write beautiful async code](https://youtu.be/vn3tm0quoqE)
+Set of problems related to callback, promise, async await.
+
+IF you are not familier with the above words, no worries you are a good programmer. 
